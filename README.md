@@ -1,5 +1,12 @@
 # StockTradingSystem
 
+
+
+![image](https://github.com/RolandSzB/StockTradingSystem/assets/125957801/4948709d-3cb8-4ec9-bc59-77d32ad43f71)
+![image](https://github.com/RolandSzB/StockTradingSystem/assets/125957801/0d608b81-b3ba-4800-8584-9eb7e0434d47)
+
+
+
 Motivation for using Singleton Pattern (StockMarket): Ensure that there is only one instance of the stock market in the system.
 
 Motivation for Observer Pattern (StockObserver): Notify users when stock prices change.
